@@ -1,3 +1,9 @@
 [submodule "Documents"]
 	path = Documents
 	url = https://github.com/MahendraSondagar/Documents
+[submodule "Examplse"]
+	path = Examplse
+	url = https://github.com/MahendraSondagar/Examplse
+[submodule "soc_blinky"]
+	path = soc_blinky
+	url = https://github.com/MahendraSondagar/soc_blinky
