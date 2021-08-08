@@ -7,3 +7,6 @@
 [submodule "soc_blinky"]
 	path = soc_blinky
 	url = https://github.com/MahendraSondagar/soc_blinky
+[submodule "soc_thunderboard_brd4166a"]
+	path = soc_thunderboard_brd4166a
+	url = https://github.com/MahendraSondagar/soc_thunderboard_brd4166a
