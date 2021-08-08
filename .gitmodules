@@ -10,3 +10,6 @@
 [submodule "soc_thunderboard_brd4166a"]
 	path = soc_thunderboard_brd4166a
 	url = https://github.com/MahendraSondagar/soc_thunderboard_brd4166a
+[submodule "blink_kernel_freertos"]
+	path = blink_kernel_freertos
+	url = https://github.com/MahendraSondagar/blink_kernel_freertos
