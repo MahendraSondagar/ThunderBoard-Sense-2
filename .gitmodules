@@ -13,3 +13,6 @@
 [submodule "blink_kernel_freertos"]
 	path = blink_kernel_freertos
 	url = https://github.com/MahendraSondagar/blink_kernel_freertos
+[submodule "blink_pwm_baremetal"]
+	path = blink_pwm_baremetal
+	url = https://github.com/MahendraSondagar/blink_pwm_baremetal
